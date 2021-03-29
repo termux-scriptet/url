@@ -30,7 +30,7 @@ class short:
                                  os.system('sh b.sh')
                                  print ('\033[36m╔═════════════════════════════════════════╗')
                                  print ('\033[37m║\033[37m [\033[32m+\033[37m] Url: '+url)
-                                 print ('\033[37m║\033[37m [\033[32m+\033[37m] Url Berhasil di pendekan')
+                                 print ('\033[37m║\033[37m [\033[32m+\033[37m] Url Has Been Shorten')
                                  print ("\033[37m║\033[37m [\033[32m√\033[37m] Hasil: " +putih +req.text)
                                  print ('\033[36m╚═════════════════════════════════════════╝')
                                  sys.exit()
@@ -40,11 +40,11 @@ class short:
 
 if __name__ == '__main__':
         os.system('clear')
-        def angga():
+        def adit():
                   print("Welcome Di Tools Shortlink")
-                  print("Coded By SuryaPardana")
+                  print("Coded By AditYT")
                   print("Selamat menggunakan")
-                  angga()
+                  Adit()
         print ('\033[36m╔═════════════════════════════════════════╗')
         url = input('\033[37m║\033[37m [\033[32m*\033[37m] Url\033[31m: \033[37m')
         print ('\033[36m╚═════════════════════════════════════════╝')
